@@ -2,7 +2,6 @@
 👀 I'm interested in technology and I'm studying software development at DevQuest, a course made by Dev em Dobro <br>
 🌱 I'm currently learning software development <br>
 📫 You can get to know me better on linkedin: <a href="https://www.linkedin.com/in/diassis-guerreiro/" target="_blank">https://www.linkedin.com/in/diassis-guerreiro/</a> <br>
-<br>
 
 <div>
   <a href="https://github.com/guerreiro-diassis">
@@ -18,8 +17,7 @@
 </div>
 <br>
  
-  ### If you're interested in networking, or just talk about software development, call me in the social medias!
-<br>
+### If you're interested in networking, or just talk about software development, call me in the social medias!
 <div> 
   <a href="https://instagram.com/_di4ssis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guerreiro.diassis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
