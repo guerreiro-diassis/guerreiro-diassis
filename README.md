@@ -1,7 +1,7 @@
-👋 Hi, I’m Diassis Guerreiro
-👀 I'm interested in technology and I'm studying software development at DevQuest, a course made by Dev em Dobro
-🌱 I'm currently learning software development
-📫 You can get to know me better on linkedin: <a href="https://www.linkedin.com/in/diassis-guerreiro/" target="_blank">https://www.linkedin.com/in/diassis-guerreiro/</a>
+👋 Hi, I’m Diassis Guerreiro <br>
+👀 I'm interested in technology and I'm studying software development at DevQuest, a course made by Dev em Dobro <br>
+🌱 I'm currently learning software development <br>
+📫 You can get to know me better on linkedin: <a href="https://www.linkedin.com/in/diassis-guerreiro/" target="_blank">https://www.linkedin.com/in/diassis-guerreiro/</a> <br>
 
 <div>
   <a href="https://github.com/guerreiro-diassis">
