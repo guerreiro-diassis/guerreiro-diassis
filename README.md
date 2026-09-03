@@ -1,19 +1,39 @@
-👋 Olá, meu nome é Diassis Guerreiro! <br>
-👀 Tenho interesse em tecnologia e estou estudando Desenvolvimento de Software na plataforma de ensino Alura <br>
-📫 Você pode me conhecer melhor no linkedin: <a href="https://www.linkedin.com/in/diassis-guerreiro/" target="_blank">https://www.linkedin.com/in/diassis-guerreiro/</a> <br>
+# Olá, eu sou o Diassis Guerreiro! 👋
 
-##### Linguagens de Desenvolvimento de Software que eu domino
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+### 🚀 Desenvolvedor Front-end
+
+Sou desenvolvedor front-end e estou focado em criar interfaces modernas, responsivas e fáceis de usar. Gosto de dar vida a designs e transformar ideias em código limpo.
+
+---
+
+### 💻 Minhas Tecnologias
+
+Aqui estão as ferramentas e linguagens que mais utilizo no meu dia a dia:
+
+<div id="badges">
+  <img src="https://shields.io" alt="HTML5 Badge"/>
+  <img src="https://shields.io" alt="CSS3 Badge"/>
+  <img src="https://shields.io" alt="JavaScript Badge"/>
+  <img src="https://shields.io" alt="React Badge"/>
 </div>
-<br>
- 
-###### Se você estiver interessado em networking, ou apenas falar sobre desenvolvimento de software, me chama nas redes sociais!
-<div> 
-  <a href="https://instagram.com/_di4ssis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guerreiro.diassis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diassis-guerreiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+
+---
+
+### 📊 Minhas Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+Se quiser trocar uma ideia sobre projetos ou oportunidades, você pode me encontrar aqui:
+
+<div id="socials">
+  <a href="https://www.linkedin.com/in/diassis-guerreiro/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Badge"/>
+  </a>
+</div>
