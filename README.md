@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Diassis+%F0%9F%91%8B;Da+Dan%C3%A7a+para+o+C%C3%B3digo+%F0%9F%92%83%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Ex-Professor%2C+Bailarino+e+Produtor+Cultural;Hoje%2C+Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=888888&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Diassis+%F0%9F%91%8B;Da+Dan%C3%A7a+para+o+C%C3%B3digo+%F0%9F%92%83%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Ex-Professor%2C+Bailarino+e+Produtor+Cultural;Hoje%2C+Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
