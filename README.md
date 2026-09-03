@@ -2,12 +2,6 @@
 👀 Sou uma pessoa interessada em tecnologia e no momento estou estudando Desenvolvimento de Software através de cursos livres na plataforma de ensino Alura <br>
 📫 Você pode me conhecer melhor no linkedin: <a href="https://www.linkedin.com/in/diassis-guerreiro/" target="_blank">https://www.linkedin.com/in/diassis-guerreiro/</a> <br>
 
-<div>
-  <a href="https://github.com/guerreiro-diassis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guerreiro-diassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guerreiro-diassis&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
 ### Linguagens de Desenvolvimento de Software que eu domino
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
