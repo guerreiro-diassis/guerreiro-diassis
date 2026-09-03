@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Diassis+%F0%9F%91%8B;Da+Dan%C3%A7a+para+o+C%C3%B3digo+%F0%9F%92%83%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Ex-Professora%2C+Bailarina+e+Produtora+Cultural;Hoje%2C+Desenvolvedora+Front-End+em+forma%C3%A7%C3%A3o;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Diassis+%F0%9F%91%8B;Da+Dan%C3%A7a+para+o+C%C3%B3digo+%F0%9F%92%83%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Ex-Professor%2C+Bailarino+e+Produtor+Cultural;Hoje%2C+Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -10,17 +10,17 @@
 
 <br>
 
-## Sobre mim
+## 💃➡️💻 Sobre mim
 
 Antes do código, o meu palco era outro: **professor, bailarino e produtor cultural**. Anos de dança me ensinaram algo que nenhum bootcamp ensina — **disciplina, ritmo e a capacidade de aprender com o corpo inteiro**.
 
 Como **professor**, desenvolvi didática e paciência para quebrar conceitos complexos em passos simples — a mesma habilidade que uso hoje para aprender lógica de programação. Como **bailarino**, treinei repetição, precisão e resiliência diante do erro (spoiler: debugar é muito parecido com ensaiar uma coreografia até acertar). Como **produtor cultural**, geri projetos do zero: prazos, equipes, orçamento, imprevistos — a essência da gestão de qualquer produto de tecnologia.
 
-Hoje, essa bagagem entra em cena no **desenvolvimento de software**: a mesma sensibilidade para espaço, movimento e experiência que eu usava em um palco, uso agora para pensar em interfaces que fazem sentido para quem as usa.
+Hoje, essa bagagem entra em cena no **desenvolvimento web**: a mesma sensibilidade para espaço, movimento e experiência que eu usava em um palco, uso agora para pensar em interfaces que fazem sentido para quem as usa.
 
 - 🔭 Atualmente aprofundando meus estudos em **Front-End e Back-End**
 - 🌱 Estudando **HTML, CSS, JavaScript e React**
-- 🎯 Buscando minha **primeira oportunidade** na área de tecnologia
+- 🎯 Buscando minha **primeira oportunidade** na área de tecnologia (vaga ou estágio)
 - 💡 Trago da dança e da produção cultural uma bagagem de **disciplina, didática, gestão de projetos e trabalho em equipe**
 - 🤝 Aberto a conexões, mentorias, trocas de conhecimento e oportunidades!
 
