@@ -10,21 +10,15 @@ Sou desenvolvedor front-end e estou focado em criar interfaces modernas, respons
 
 Aqui estão as ferramentas e linguagens que mais utilizo no meu dia a dia:
 
-<div id="badges">
-  <img src="https://shields.io" alt="HTML5 Badge"/>
-  <img src="https://shields.io" alt="CSS3 Badge"/>
-  <img src="https://shields.io" alt="JavaScript Badge"/>
-  <img src="https://shields.io" alt="React Badge"/>
-</div>
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io)
 
 ---
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
+![Estatísticas do GitHub](https://vercel.app) 
+
+![Linguagens mais usadas](https://vercel.app)
 
 ---
 
@@ -32,8 +26,4 @@ Aqui estão as ferramentas e linguagens que mais utilizo no meu dia a dia:
 
 Se quiser trocar uma ideia sobre projetos ou oportunidades, você pode me encontrar aqui:
 
-<div id="socials">
-  <a href="https://www.linkedin.com/in/diassis-guerreiro/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Badge"/>
-  </a>
-</div>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
